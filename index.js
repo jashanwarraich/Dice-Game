@@ -1,5 +1,5 @@
 //alert("hi");
-
+ 
 var rn1=Math.floor(Math.random()*6)+1;
 var rimage1="images/"+"dice"+rn1+".png";
 
